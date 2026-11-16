@@ -29,7 +29,8 @@ and operable.
 | Operations | Prometheus, Grafana, OpenTelemetry traces across the queue, JSON logs |
 | Product | Chat widget embeddable in one `<script>` tag; PDF (with OCR), Word, HTML |
 
-[Release 1.0.0](https://github.com/WolfieToAI/corpus/releases/tag/v1.0.0) ·
+**[Try the live demo](https://corpus-8jf9.onrender.com/demo)** ·
+[Latest release](https://github.com/WolfieToAI/corpus/releases/latest) ·
 [Architecture](https://github.com/WolfieToAI/corpus/blob/main/docs/ARCHITECTURE.md) ·
 [Evaluation](https://github.com/WolfieToAI/corpus/blob/main/docs/EVALUATION.md) ·
 [Load testing](https://github.com/WolfieToAI/corpus/blob/main/docs/OBSERVABILITY.md)
