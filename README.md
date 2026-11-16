@@ -32,7 +32,7 @@ un backend qui tient la charge · un MVP SaaS solide, prêt pour de vrais client
 
 ### What I can build for you
 
-| | |
+| Service | What you get |
 |---|---|
 | 🤖 **AI assistant on your documents** | Customer support, internal knowledge base, document search: answers with sources, measured quality |
 | ⚙️ **Business process automation** | Follow-ups, orders, onboarding: workflows that run for days, wait for events and survive crashes |
@@ -80,7 +80,7 @@ three days for the payment, send a reminder, even if servers restart in between.
 
 ### Stack
 
-| | |
+| Area | Tools |
 |---|---|
 | **Back end** | Python · FastAPI · TypeScript · Node.js · PostgreSQL (pgvector, RLS) · SQLAlchemy |
 | **Front end** | React · Vite |
