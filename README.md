@@ -89,5 +89,7 @@ three days for the payment, send a reminder, even if servers restart in between.
 
 ---
 
-📬 **Available for freelance missions, remote or in Paris.**
-*Disponible pour des missions freelance, à distance ou à Paris.*
+📬 **Available for freelance missions, remote or on site.**
+*Disponible pour des missions freelance, à distance ou sur site.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brice%20Drouin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brice-drouin-068953280)
