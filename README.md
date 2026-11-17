@@ -67,6 +67,7 @@ three days for the payment, send a reminder, even if servers restart in between.
 - **Fast**: up to ~850 runs/s on a laptop, idle workers wake up in ~8 ms
 - **Observable**: OpenTelemetry traces and metrics for every step
 
+**[▶ Try the live demo](https://flowline-demo.onrender.com)** ·
 [Code](https://github.com/WolfieToAI/flowline) ·
 [Release notes](https://github.com/WolfieToAI/flowline/releases/latest) ·
 [Explication technique (FR)](https://github.com/WolfieToAI/flowline/blob/main/docs/EXPLICATION-TECHNIQUE.md)
