@@ -57,7 +57,7 @@ and the quality is measured, not guessed.
 [Architecture](https://github.com/WolfieToAI/corpus/blob/main/docs/ARCHITECTURE.md) ·
 [Evaluation](https://github.com/WolfieToAI/corpus/blob/main/docs/EVALUATION.md)
 
-#### 🔁 Flowline · Durable workflows for TypeScript · *coming soon*
+#### 🔁 [Flowline](https://github.com/WolfieToAI/flowline) · Durable workflows for TypeScript
 
 A workflow engine for business processes that must never lose a step: create an order, wait
 three days for the payment, send a reminder, even if servers restart in between.
@@ -66,6 +66,10 @@ three days for the payment, send a reminder, even if servers restart in between.
 - **Visual**: a drag-and-drop flow editor and a live dashboard of every run, retry and failure
 - **Fast**: up to ~850 runs/s on a laptop, idle workers wake up in ~8 ms
 - **Observable**: OpenTelemetry traces and metrics for every step
+
+[Code](https://github.com/WolfieToAI/flowline) ·
+[Release notes](https://github.com/WolfieToAI/flowline/releases/latest) ·
+[Explication technique (FR)](https://github.com/WolfieToAI/flowline/blob/main/docs/EXPLICATION-TECHNIQUE.md)
 
 ---
 
