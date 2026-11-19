@@ -110,8 +110,8 @@ the code. You'll get regular demos and honest estimates, without jargon when it 
 
 ---
 
-📬 **Available for freelance projects, remote or on site.**
-*Disponible pour des missions freelance, à distance ou sur site.*
+📬 **Available for freelance projects, fully remote.**
+*Disponible pour des missions freelance, 100 % à distance.*
 
 [![Website](https://img.shields.io/badge/Website-wolftodev.fr-111827?logo=wordpress&logoColor=white)](https://wolftodev.fr)
 [![Malt](https://img.shields.io/badge/Malt-Brice%20Drouin-FC5757)](https://www.malt.fr/profile/bricedrouin)
