@@ -1,4 +1,4 @@
-## Brice Drouin · Wolf To Dev
+## Brice Drouin · Wolf to Dev
 
 [wolftodev.fr](https://wolftodev.fr)
 
@@ -17,7 +17,7 @@ I also run **EXIST**, the web agency I founded in 2017: its work is shown on
 <summary>🇫🇷 <b>Version française</b></summary>
 <br>
 
-**Brice Drouin, alias Wolf To Dev** · [wolftodev.fr](https://wolftodev.fr)
+**Brice Drouin, alias Wolf to Dev** · [wolftodev.fr](https://wolftodev.fr)
 
 **Développeur web full stack et IA, ingénieur EPITA, freelance depuis 2017.** Je crée des sites
 web sur WordPress, dont mon propre site, sur un thème que j'ai écrit à la main. Pour les startups
@@ -85,7 +85,7 @@ three days for the payment, send a reminder, even if servers restart in between.
 
 #### [wolftodev.fr](https://wolftodev.fr) · My own site, on a custom WordPress theme
 
-The Wolf To Dev site runs on a WordPress theme I wrote by hand in HTML, CSS, JavaScript and PHP,
+The Wolf to Dev site runs on a WordPress theme I wrote by hand in HTML, CSS, JavaScript and PHP,
 with no page builder. It's in French, English and Arabic, and the animations are part of the theme.
 
 **[▶ Visit the site](https://wolftodev.fr)**
