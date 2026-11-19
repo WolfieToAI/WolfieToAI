@@ -10,7 +10,7 @@ fast backends.
 I test against real databases and publish the numbers. You'll get working software and plain
 explanations of the trade-offs.
 
-I also run **EXIST**, the web agency I founded in 2017: its work is shown on
+Since January 2023, I've also run **EXIST**, the web agency I founded: its work is shown on
 [e-xist.fr](https://e-xist.fr).
 
 <details>
@@ -33,7 +33,7 @@ interne, base de connaissances) · l'automatisation de vos processus (relances, 
 onboarding) · une API ou un backend qui tient la charge · un MVP SaaS solide, prêt pour de vrais
 clients.
 
-Je dirige aussi **EXIST**, l'agence web que j'ai fondée en 2017 : ses réalisations sont sur
+Depuis janvier 2023, je dirige aussi **EXIST**, l'agence web que j'ai fondée : ses réalisations sont sur
 [e-xist.fr](https://e-xist.fr).
 
 </details>
@@ -102,7 +102,7 @@ the code. You'll get regular demos and honest estimates, without jargon when it 
 
 | Area | Tools |
 |---|---|
-| **Back end** | Python · FastAPI · TypeScript · Node.js · PostgreSQL (pgvector, RLS) · SQLAlchemy |
+| **Back end** | Python · C++ · FastAPI · TypeScript · Node.js · PostgreSQL (pgvector, RLS) · SQLAlchemy |
 | **Front end** | React · Vite |
 | **Web & CMS** | WordPress · PHP · HTML · CSS · JavaScript · SEO |
 | **AI** | LLM APIs · RAG · embeddings · evaluation |
