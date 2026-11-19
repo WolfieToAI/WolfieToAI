@@ -1,6 +1,6 @@
-## Hi, I'm Brice 👋
+## Wolf to Dev · Brice Drouin
 
-**Freelance full-stack & AI developer in Paris.** I help startups and SMEs ship software that
+**Freelance full-stack web & AI engineer in Paris**, EPITA graduate, freelancing since 2017. I help startups and SMEs ship software that
 works on their real data and keeps working in production: AI assistants grounded in their own
 documents, automated business processes, and fast, reliable backends.
 
@@ -12,7 +12,7 @@ documentation, and someone who explains the trade-offs in plain words.
 <summary>🇫🇷 <b>Version française</b></summary>
 <br>
 
-**Développeur freelance full stack & IA, à Paris.** J'aide les startups et les PME à livrer des
+**Ingénieur freelance full stack web et IA, à Paris**, diplômé de l'EPITA, freelance depuis 2017. J'aide les startups et les PME à livrer des
 logiciels qui fonctionnent sur leurs vraies données et tiennent en production : assistants IA qui
 répondent à partir de leurs propres documents, processus métier automatisés, backends rapides et
 fiables.
@@ -24,7 +24,8 @@ choix simplement.
 
 **Ce que je peux faire pour vous :** un assistant IA sur vos documents (support, interne, base de
 connaissances) · l'automatisation de vos processus (relances, commandes, onboarding) · une API ou
-un backend qui tient la charge · un MVP SaaS solide, prêt pour de vrais clients.
+un backend qui tient la charge · un MVP SaaS solide, prêt pour de vrais clients · un site vitrine ou
+e-commerce sur WordPress, avec un thème écrit sur mesure.
 
 </details>
 
@@ -38,6 +39,7 @@ un backend qui tient la charge · un MVP SaaS solide, prêt pour de vrais client
 | ⚙️ **Business process automation** | Follow-ups, orders, onboarding: workflows that run for days, wait for events and survive crashes |
 | 🚀 **APIs and backends** | Fast under load, secure by default, with metrics and traces from day one |
 | 🧱 **SaaS MVP** | Multi-tenancy, auth, background jobs, deployment: foundations you won't have to rewrite |
+| 🌐 **Websites** | Showcase and e-commerce sites on WordPress, hand-written custom themes, responsive, SEO |
 
 ---
 
@@ -89,6 +91,7 @@ three days for the payment, send a reminder, even if servers restart in between.
 |---|---|
 | **Back end** | Python · FastAPI · TypeScript · Node.js · PostgreSQL (pgvector, RLS) · SQLAlchemy |
 | **Front end** | React · Vite |
+| **Web** | WordPress · PHP · HTML · CSS · JavaScript |
 | **AI** | LLM APIs · RAG · embeddings · evaluation |
 | **Ops** | Docker · GitHub Actions · OpenTelemetry · Prometheus · Grafana · Render |
 
@@ -97,4 +100,6 @@ three days for the payment, send a reminder, even if servers restart in between.
 📬 **Available for freelance missions, remote or on site.**
 *Disponible pour des missions freelance, à distance ou sur site.*
 
+[![Website](https://img.shields.io/badge/wolftodev.fr-Website-111111?logo=wordpress&logoColor=white)](https://wolftodev.fr)
+[![Malt](https://img.shields.io/badge/Malt-Brice%20Drouin-FC5757)](https://www.malt.fr/profile/bricedrouin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brice%20Drouin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brice-drouin-068953280)
